@@ -27,7 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Meu nome é Yazodhara Alves Cota, sou formada em Educação Física pela Universidade Federal do Rio de Janeiro, atualmente professora efetiva do município do Rio de Janeiro e de Mangaratiba.
+Desde cedo me interesso pela área da tecnologia, fazendo diversos cursos na área, de montagem e manutenção de computadores a lógica de programação. 
+Atualmente na prefeitura do Rio de Janeiro estou no cargo de Professora Articuladora, sendo responsável pelo colaboratório Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
