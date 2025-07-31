@@ -23,11 +23,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/projects/";
           },
-        },{id: "post-primeirodia",
+        },{id: "post-experiência-do-primeiro-dia",
         
-          title: "Primeirodia",
+          title: "Experiência do primeiro dia",
         
-        description: "",
+        description: "Essa foi minha primeira experiência",
         section: "Posts",
         handler: () => {
           
