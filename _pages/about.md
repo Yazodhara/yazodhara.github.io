@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Meu nome é Yazodhara Alves Cota, sou formada em Educação Física pela Universidade Federal do Rio de Janeiro, atualmente professora efetiva do município do Rio de Janeiro e de Mangaratiba.
+Meu nome é Yazodhara Alves Cota, sou formada em Educação Física pela Universidade Federal Rural do Rio de Janeiro, atualmente professora efetiva do município do Rio de Janeiro e de Mangaratiba.
 Desde cedo me interesso pela área da tecnologia, fazendo diversos cursos na área, de montagem e manutenção de computadores a lógica de programação. 
 Atualmente na prefeitura do Rio de Janeiro estou no cargo de Professora Articuladora, sendo responsável pelo colaboratório de um Ginásio Experimental Tecnológico.  
