@@ -7,28 +7,28 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/al-folio/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/al-folio/blog/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/al-folio/projects/";
           },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/al-folio/people/";
           },
         },{id: "post-experiência-do-primeiro-dia",
         
@@ -38,7 +38,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/quartodia/";
+            window.location.href = "/al-folio/blog/2025/quartodia/";
           
         },
       },{id: "post-experiência-do-primeiro-dia",
@@ -49,7 +49,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/terceirodia/";
+            window.location.href = "/al-folio/blog/2025/terceirodia/";
           
         },
       },{id: "post-experiência-do-primeiro-dia",
@@ -60,7 +60,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/segundodia/";
+            window.location.href = "/al-folio/blog/2025/segundodia/";
           
         },
       },{id: "post-experiência-do-primeiro-dia",
@@ -71,7 +71,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/primeirodia/";
+            window.location.href = "/al-folio/blog/2025/primeirodia/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -100,7 +100,7 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/al-folio/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -108,7 +108,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/al-folio/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -116,7 +116,7 @@ ninja.data = [{
           title: 'Incubadora',
           description: "Uma incubadora controlada pelo arduino.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/al-folio/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -136,7 +136,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("/al-folio/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
